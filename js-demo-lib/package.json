@@ -1,0 +1,11 @@
+{
+  "name": "js-demo-lib",
+  "version": "1.0.1",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "youyage",
+    "email": "heroyyg@126.com"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "js-demo-app",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "youyage",
+  "license": "MIT",
+  "dependencies": {
+    "js-demo-lib": "^1.0.0"
+  }
+}
